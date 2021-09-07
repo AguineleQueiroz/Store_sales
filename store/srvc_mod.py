@@ -176,7 +176,7 @@ def listar_vendedores(matrix):
     titulo_tarefa(titulo='REGISTRO DE VENDEDORES')
     if len(matrix) != 0:
         for vendedor in matrix:
-            print(vendedor)
+            print(vendedor[0])
     else:
         print('Não há vendedores cadastrados!')
 
