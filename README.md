@@ -12,7 +12,7 @@ Projeto desenvolvido utilizando:
 
 * [Python](https://www.python.org/): Linguagem de programação de sintaxe simples;
 
-* [Pycharm](https://www.jetbrains.com/pt-br/pycharm/)
+* [Pycharm](https://www.jetbrains.com/pt-br/pycharm/): IDE para desenvolvimento com Python
 
 ## Requisitos
 
