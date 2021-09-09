@@ -1,12 +1,12 @@
 # Store Sales
 
-# Controle de Vendas
+## Controle de Vendas
 
-## Introdução
+### Introdução
 
 Este é um projeto que busca implementar algumas funcionalidades básicas de um software ERP hipotético para monitorar as vendas de uma loja. 
 
-## Tecnologias
+### Tecnologias
 
 Projeto desenvolvido utilizando:
 
@@ -14,12 +14,12 @@ Projeto desenvolvido utilizando:
 
 * [Pycharm](https://www.jetbrains.com/pt-br/pycharm/): IDE para desenvolvimento com Python
 
-## Requisitos
+ ### Requisitos
 
 * Ter instalado Python na versão 3.8 ou superior. O projeto foi desenvolvido usando a versão 3.8, versões anteriores pode não funcionar corretamente;
 
 
-## Funcionalidades implementadas
+ ### Funcionalidades implementadas
 
 * Cadastro de Funcionários:
   * Nome;
