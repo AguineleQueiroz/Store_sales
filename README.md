@@ -43,3 +43,6 @@ Projeto desenvolvido utilizando:
 * Consultar mês com maior quantidade de vendas:
 
 * Consultar lista de funcionários
+
+### Autor:
+ Aguinele Queiroz
