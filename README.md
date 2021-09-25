@@ -16,7 +16,7 @@ Projeto desenvolvido utilizando:
 
  ### Requisitos
 
-* Ter instalado Python na versão 3.8 ou superior. O projeto foi desenvolvido usando a versão 3.8, versões anteriores pode não funcionar corretamente;
+* Ter instalado Python na versão 3.8 ou superior. O projeto foi desenvolvido usando a versão 3.8, versões anteriores podem não funcionar corretamente;
 
 
  ### Funcionalidades implementadas
